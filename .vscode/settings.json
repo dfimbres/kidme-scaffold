@@ -1,6 +1,6 @@
 {
-   "solidity.packageDefaultDependenciesDirectory": "node_modules/@scaffold-eth/hardhat/node_modules/",
-   "solidity-va.test.defaultUnittestTemplate": "hardhat",
+   "solidity.packageDefaultDependenciesContractsDirectory": "",
+   "solidity.packageDefaultDependenciesDirectory": "node_modules",
    "files.exclude": {
       "**/.git": true,
       "**/.svn": true,
